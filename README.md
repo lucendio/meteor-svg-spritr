@@ -15,7 +15,7 @@ callback which registered the file within the build process.
 
 ###v2 
 
-``plugin/FUTURE.compile-svgs.js`` ius the current approach. I figured since the build
+``plugin/FUTURE.compile-svgs.js`` is the current approach. I figured since the build
 process uses fibers to parallelize it could be a more reliable way. currently it works.
 
  
